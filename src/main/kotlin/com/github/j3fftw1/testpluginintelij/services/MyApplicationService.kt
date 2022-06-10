@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.j3fftw1.testpluginintelij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.j3fftw1.testpluginintelij.MyBundle
 
 class MyApplicationService {
 
